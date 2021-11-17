@@ -1,10 +1,17 @@
+# Albo (backend)
+
+For frontend see https://github.com/The-Digital-State/albo-frontend
+
+## instructions
+
+
 Run `make up` and open the page `http://localhost`
 
 Run `make down` to down all docker containers
 
 Run `make exec` to run shell in container
 
-### inside php container
+## inside php container
 
 Run `php artisan migrate:fresh` to drop all tables and run all migrations
 
