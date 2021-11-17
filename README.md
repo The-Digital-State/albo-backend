@@ -23,3 +23,7 @@ Run `./vendor/bin/phpunit` to run tests
 
 Swagger: `http://localhost/specs/swagger/index.html`  
 Redoc: `http://localhost/specs/redoc/index.html`
+
+# Questions and Communities
+
+Telegram: https://t.me/meta_belarus
