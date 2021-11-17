@@ -24,6 +24,14 @@ Run `./vendor/bin/phpunit` to run tests
 Swagger: `http://localhost/specs/swagger/index.html`  
 Redoc: `http://localhost/specs/redoc/index.html`
 
+# Contributors
+
+This project has been developed by an independent team of developers who wished to remain anonymous.
+
+# License
+
+https://creativecommons.org/licenses/by/3.0/
+
 # Questions and Communities
 
 Telegram: https://t.me/meta_belarus
